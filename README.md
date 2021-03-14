@@ -1,5 +1,5 @@
 # minecraft-client-optimizations
-A client optimization guide for 1.16.5. Here's a list of the recommend frabic mods you should install.
+A client optimization guide for 1.16.5. Here's a list of the recommend Fabric mods you should install:
 
 # [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
@@ -18,11 +18,11 @@ Lithium is a free and open-source Minecraft mod which works to optimize many are
 
 
 # How to install
-Firstly you need to download frabic, the guide and download link can be aquired here https://fabricmc.net/use/. Once you have installed that you just need to download the mods you want drop them into the mod folder frabic creates. A lot of mods require the Frabic API mod which you can download here https://www.curseforge.com/minecraft/mc-mods/fabric-api/files.
+Firstly, you need to download Fabric. The guide and download link can be acquired here: https://fabricmc.net/use/. Once you have installed that, you just need to download the mods you want and drop them into the mod folder Fabric creates. A lot of mods require the Fabric API mod which can downloaded here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files.
 
 Download links for the mod jars:
-Sodium: https://github.com/CaffeineMC/sodium-fabric/releases
-Starlight: https://github.com/Spottedleaf/Starlight/releases
-Krypton: https://github.com/astei/krypton/releases
-Lazyfdu: https://github.com/astei/lazydfu/releases
-Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
+* Sodium: https://github.com/CaffeineMC/sodium-fabric/releases
+* Starlight: https://github.com/Spottedleaf/Starlight/releases
+* Krypton: https://github.com/astei/krypton/releases
+* Lazyfdu: https://github.com/astei/lazydfu/releases
+* Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
