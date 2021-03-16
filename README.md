@@ -17,7 +17,7 @@ Krypton is a Fabric mod that attempts to optimize the Minecraft networking stack
 LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so. It does not modify DFU and should be safe, but do exercise more than the usual caution.
 
 # How to install
-Firstly, you need to download Fabric. The guide and download link can be acquired here: https://fabricmc.net/use/. Once you have installed that, you just need to download the mods you want and drop them into the mod folder Fabric creates. A lot of mods require the Fabric API mod which can downloaded here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files.
+Firstly, you need to download Fabric. The guide and download link can be acquired here: https://fabricmc.net/use/. Once you have installed that, you just need to download the mods you want and drop them into the mod folder Fabric creates. A lot of mods require the Fabric API mod which can be downloaded here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files.
 
 Download links for the mod jars:
 * Sodium: https://github.com/CaffeineMC/sodium-fabric/releases
