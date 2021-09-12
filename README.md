@@ -1,5 +1,5 @@
 # minecraft-client-optimizations
-A client optimization guide for 1.16.5. Here's a list of the recommend Fabric mods you should install:
+A client optimization guide for 1.16.x-1.17.x. Here's a list of the recommended Fabric mods you should install:
 
 # [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
@@ -16,9 +16,6 @@ This mod reduces the memory usage of Minecraft in a few different ways. A high-l
 # [Krypton](https://github.com/astei/krypton)
 Krypton is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work done in the Velocity and Tuinity projects.
 
-# [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot)
-Smooth Boot is a mod that improves Minecraft multithread scheduling. The result is that Minecraft will load much smoother.
-
 # [Lazydfu](https://github.com/astei/lazydfu)
 LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so. It does not modify DFU and should be safe, but do exercise more than the usual caution.
 
@@ -31,5 +28,4 @@ Download links for the mod jars:
 * Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
 * FerriteCore: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download
 * Krypton: https://github.com/astei/krypton/releases
-* SmoothBoot: https://github.com/UltimateBoomer/mc-smoothboot/releases
 * Lazyfdu: https://github.com/astei/lazydfu/releases
