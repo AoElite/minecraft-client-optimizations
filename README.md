@@ -16,8 +16,17 @@ This mod reduces the memory usage of Minecraft in a few different ways. A high-l
 # [Krypton](https://github.com/astei/krypton)
 Krypton is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work done in the Velocity and Tuinity projects.
 
-# [Lazydfu](https://github.com/astei/lazydfu)
+# [LazyDFU](https://github.com/astei/lazydfu)
 LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so. It does not modify DFU and should be safe, but do exercise more than the usual caution.
+
+# [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)
+EBE is a 100% client side Minecraft mod for the Fabric mod loader which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs.
+
+# [EntityCulling](https://github.com/tr7zw/EntityCulling)
+Minecraft skips rendering things that are behind you, so why is it rendering everything that you still can't see because of a wall in the way? This mod utilizes your other CPU cores/threads to do really quick path-tracing from your camera to all tile/-entities to determine rather they are visible or not. During the rendering, the not visible ones will be skipped the same way entities behind you are.
+
+# [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS)
+Dynamic FPS automatically reduces the speed at which minecraft renders when it's not focused (to 1 FPS) or hidden (no renders at all). It also fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should.
 
 # How to install
 To start, download the Fabric modloader here: https://fabricmc.net/use/. After installing and launching Fabric for the first time, a mods folder will be generated in your Minecraft installation directory (e.g. Windows: %appdata%/Roaming/.minecraft). From here, find and download the mods you desire and place them into the mods folder. Most mods require the Fabric API mod which can be found here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files.
@@ -28,4 +37,7 @@ Quick downloads links:
 * Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
 * FerriteCore: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/download
 * Krypton: https://github.com/astei/krypton/releases
-* Lazyfdu: https://github.com/astei/lazydfu/releases
+* LazyDFU: https://github.com/astei/lazydfu/releases
+* Enhanced Block Entities: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities/download
+* EntityCulling: https://github.com/tr7zw/EntityCulling/releases
+* Dynamic FPS: https://github.com/juliand665/Dynamic-FPS/releases
