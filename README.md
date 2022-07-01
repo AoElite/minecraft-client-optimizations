@@ -1,5 +1,5 @@
 # minecraft-client-optimizations
-A client optimization guide for 1.16.x-1.18.x. Here's a list of the recommended Fabric mods you should install:
+A client optimization guide for 1.16.x-1.19.x. Here's a list of the recommended Fabric mods you should install:
 
 # [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
