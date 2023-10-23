@@ -35,7 +35,7 @@ Official GitHub links (in case links above no longer work):
 * Sodium: https://github.com/CaffeineMC/sodium-fabric/releases
 * Starlight: https://github.com/Spottedleaf/Starlight/releases
 * Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
-* FerriteCore: https://github.com/malte0811/FerriteCore
+* FerriteCore: https://github.com/malte0811/FerriteCore/tags
 * Krypton: https://github.com/astei/krypton/releases
 * EntityCulling: https://github.com/tr7zw/EntityCulling/releases
 * Immediately Fast: https://github.com/RaphiMC/ImmediatelyFast/releases
