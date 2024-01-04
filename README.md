@@ -19,9 +19,6 @@ This mod reduces the memory usage of Minecraft in a few different ways. A high-l
 # [Krypton](https://modrinth.com/mod/krypton)
 Krypton is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work done in the Velocity and Tuinity projects.
 
-# [EntityCulling](https://modrinth.com/mod/entityculling)
-Minecraft skips rendering things that are behind you, so why is it rendering everything that you still can't see because of a wall in the way? This mod utilizes your other CPU cores/threads to do really quick path-tracing from your camera to all tile/-entities to determine rather they are visible or not. During the rendering, the not visible ones will be skipped the same way entities behind you are.
-
 # [Immediately Fast](https://modrinth.com/mod/immediatelyfast)
 ImmediatelyFast is an open source Fabric mod which improves the immediate mode rendering performance of the client. It is designed to be lightweight and compatible with other mods. This makes it an ideal choice for modpacks or as a replacement for other more aggressive optimization mods such as Exordium or Enhanced Block Entities.
 
@@ -33,10 +30,10 @@ To start, download the Fabric modloader here: https://fabricmc.net/use/. After i
 
 Official GitHub links (in case links above no longer work):
 * Sodium: https://github.com/CaffeineMC/sodium-fabric/releases
+* Sodium Extra: https://github.com/FlashyReese/sodium-extra-fabric/releases
 * Starlight: https://github.com/Spottedleaf/Starlight/releases
 * Lithium: https://github.com/CaffeineMC/lithium-fabric/releases
 * FerriteCore: https://github.com/malte0811/FerriteCore
 * Krypton: https://github.com/astei/krypton/releases
-* EntityCulling: https://github.com/tr7zw/EntityCulling/releases
 * Immediately Fast: https://github.com/RaphiMC/ImmediatelyFast/releases
 * Dynamic FPS: https://github.com/juliand665/Dynamic-FPS/releases
